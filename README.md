@@ -11,7 +11,8 @@ astro dev stop
 
 # Issues
 
-# Docker Buildkit Error on Start 
+## Docker BuildKit Error on Start 
+What is [BuildKit](https://docs.docker.com/develop/develop-images/build_enhancements/)?
 ```bash
 > astro dev start
 Env file ".env" found. Loading...
